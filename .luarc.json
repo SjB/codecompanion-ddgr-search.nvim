@@ -1,0 +1,10 @@
+{
+    "$schema": "https://raw.githubusercontent.com/luarocks/luarc-spec/v1.0.0/schema.json",
+    "runtime": {
+        "version": "LuaJIT",
+        "path": [
+            "lua/?.lua",
+            "lua/?/init.lua"
+        ]
+    }
+}
